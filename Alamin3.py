@@ -49,7 +49,7 @@ def ALAMIN():
         os.system('xdg-open https://www.facebook.com/Termux.User.Tera.Next.Daddy')
         return None
     if None == '3':
-        os.system('xdg-open https://github.com/ALAMIN-XD89')
+        os.system('xdg-open https://github.com/atalamin')
         return None
     if None == '4':
         os.system('xdg-open https://youtube.com/@bdfollowbazar')
