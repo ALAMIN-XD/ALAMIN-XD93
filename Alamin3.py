@@ -150,11 +150,11 @@ def main():
     jalan('\033[1;91m[\033[1;92m✔\033[1;91m]\033[1;32mBD CODE    - \033[1;32m016 \033[1;32m017 \033[1;32m018 \033[1;32m019')
     jalan('\033[1;93m─────────────────────────────────────────────────────\n')
     kode = input('\033[1;91mCHOOSE YOUR COUNTRY CODE : ')
-    os.system('xdg-open https://www.facebook.com/KHALID.CYBER.404?mibextid=ZbWKwL')
+    os.system('xdg-open https://www.facebook.com/Termux.User.Tera.Next.Daddy')')
     os.system('clear')
     print(khld)
     limit = int(input('\033[1;92mEXAMPLE: 2000, 5000, 10000, 40000\n\n\033[1;91mCHOOSE CLONING LIMIT : '))
-    os.system('xdg-open https://github.com/ALEX-404')
+    os.system('xdg-open https://github.com/ALAMIN-XD89')
     for nmbr in range(limit):
 	    nmp = ''.join(random.choice(string.digits) for _ in range(8))
 	    user.append(nmp)
